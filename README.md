@@ -42,7 +42,12 @@ A relational database project simulating a real-world **movie ticket booking sys
 
 ---
 
-## screenshot / EER daigram
-this is how my project's EER looks like : 
+## 📸 Snapshot
+
+### 🧩 ER Diagram  
+![ER Diagram](https://github.com/the-Sumitk/Movie-Ticket-Booking-System/blob/main/EER%20Daigram.png)
+
+
+
 
 
